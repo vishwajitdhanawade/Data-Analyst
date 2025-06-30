@@ -23,4 +23,5 @@ The objective of this dashboard is to analyze global video game sales from 1983 
 •  Ds and 3DS are the most popular platforms by sales.
 
 •  Major publishers like Nintendo and Namaco Bandai Games lead in overall sales.
+
 •  Game sales peaked during certain years, with noticeable trends by genre.
