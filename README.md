@@ -1,7 +1,8 @@
 # Amazon-Data-Analysis (Dashboard Creation using MS Exel)
 ## Project Objective
 The objective of this Amazon Dashboard is to analyze key business metrics such as product performance, category-wise sales, The dashboard provides insights to help understand consumer behavior, identify top-performing products, and support data-driven decisions for marketing and inventory planning.
-##Questions
+
+## Questions
 •  How does the quantity of orders vary by week and product category?
 •  Which are the top 10 states by order quantity and how does it relate to the ship service level and product category?
 •  What is the distribution of quantity by courier status across different categories?
