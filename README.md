@@ -26,6 +26,26 @@ The objective of this Amazon Dashboard is to analyze key business metrics such a
   
 -	Make sure data is consistent and clean with respect to data type,data format & values used
 
+  ## Project insight
+•  Order quantity trends showed weekly fluctuations, with certain categories consistently performing better over time.
+
+•  The top 10 states contributed significantly to total sales volume, and service level preferences varied across these regions.
+
+•  Courier status analysis revealed that delayed or cancelled shipments were less common in specific categories, highlighting potential logistic bottlenecks.
+
+•  Product size influenced quantity trends, with smaller-sized products often having higher sales volumes.
+
+•  The state-wise quantity map clearly identified key geographic areas driving Amazon's order volume.
+
+•  Most orders were in the “delivered” or “shipped” status, but there was a noticeable rate of returns/cancellations in select categories.
+
+•  Order amounts varied week-over-week, with peaks typically aligning with promotional events or high-demand periods in specific categories.
+
+•  Online sales channels dominated in terms of quantity, while some categories saw higher contributions from offline or partner channels.
+
+•  B2B sales were strong in categories such as electronics and office supplies, indicating high-volume corporate buying behavior.
+
+
 
 
 
