@@ -21,6 +21,12 @@ The objective of this Amazon Dashboard is to analyze key business metrics such a
 
 •  How does B2B order quantity vary across different product categories?
 
+## Process
+-	Verify data for any missing values
+  
+-	Make sure data is consistent and clean with respect to data type,data format & values used
+
+
 
 
 
